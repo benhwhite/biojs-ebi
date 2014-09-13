@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course
-permalink: /home/
+permalink: /
 order: 1
 ---
 
