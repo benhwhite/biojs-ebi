@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 
-<img src="/assets/i/teaser.png" width="800px;" />
+<img src="{{ site.baseurl }}/assets/i/teaser.png" width="800px;" />
 
 <div class="credits"><a href="">Protein Interaction Network</a> | <a href="">Phylogenetic Tree</a> | <a href="">Microarray Scatterplot</a></div>
 
