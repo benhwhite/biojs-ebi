@@ -27,7 +27,7 @@ order: 3
   <tr>
     <td class="tg-031e">9:15</td>
     <td class="tg-031e">The BioJS project and ecosystem</td>
-    <td class="tg-031e">Manuel Corpas</td>
+    <td class="tg-031e">Iris Shih</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
