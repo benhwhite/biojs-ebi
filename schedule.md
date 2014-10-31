@@ -37,6 +37,12 @@ order: 3
     <td class="tg-031e"></td>
   </tr>
   <tr>
+    <td class="tg-031e">10:00</td>
+    <td class="tg-031e">Developer environment setup</td>
+    <td class="tg-031e">All</td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
     <td class="tg-031e">10:30</td>
     <td class="tg-031e">Break</td>
     <td class="tg-031e"></td>
