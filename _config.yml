@@ -1,7 +1,7 @@
 # Site settings
-title: Protein Prediction 2
+title: BioJS Workshop
 email: 
-description: "Protein Prediction at Technical University of Munich"
+description: "Presented by BioJS 2.0"
 baseurl: ""
 url: "http://lab.biojs.net/"
 twitter_username: 

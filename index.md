@@ -9,30 +9,20 @@ order: 1
 
 <div class="credits"><a href="">Protein Interaction Network</a> | <a href="">Phylogenetic Tree</a> | <a href="">Microarray Scatterplot</a></div>
 
-With the advent of high-throughput technologies biology is experiencing a data revolution. What started as the challenge to sequence the human genome has grown into the need to compare thousands of genomes, and to understand DNA sequences in the context of many other types of measured biological data. Biologists use visualizations in their everyday workflow to help them explore and understand this massive amount of data. In this lecture we work closely with biologists to design visualization tools that support efficient scientific inquiry and provide new biological insights.
+BioJS is a library of biologically driven components that are easy to reuse, maintain and deploy on the web. This workshop aims to introduce the BioJS project and develop skills in the use of BioJS components. We will provide a “hello world” tutorial on creating a BioJS component and contributing to the project community. The second day will involve hackathon to develop new components, or porting existing JavaScript functionality into BioJS 2.0.
 
-In this course you will learn to predict the functions of proteins, state of the art prediction techniques in bioinformatics, tools for visualization of biological data, and programming of interactive web-based visualizations for biology using [D3](http://d3js.org/) and [BioJS](http://biojs.net/).
+In this course you will learn about tools for visualization of biological data, and programming of interactive web-based visualizations for biology using [D3](http://d3js.org/) and [BioJS](http://biojs.net/).
 
-### Instructor
+### Instructors
+ [Manuel Corpas]() - TGAC
+ [David Dao]() - HITS 
+ [Iris Shih]() - TUM
+ [Sebastian Wilzbach]() -  RostLab
 
-[Prof. Burkhard Rost]() 
 
 ### Logistics
+ Location: Training Room 2, South Building, EMBL-EBI
+ Date: 5-6 November 2014
 
-**Lectures:** Tu, Th 11:00-12:30 , [Room will be announced!]
-
-**Exercise:** Th 12:30-13:30 , [Room will be announced!] 
-
-### Staff
-
-Please address all questions regarding the lecture to the teaching fellows 
-
- [Tatyana Goldberg]() (Head TF) Ph.D. Student, RostLab
- [Sebastian Wilzbach]() -  Lab Member, RostLab
- [David Dao]() - Lab Member, RostLab  
-
-
-### Lecture Resources
-
-Here will be the slides of the lecture
-
+### Materials
+ Will be published online here

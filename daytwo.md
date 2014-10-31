@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Day One
-permalink: /dayone/
-order: 3
+title: Day Two
+permalink: /daytwo/
+order: 4
 ---
 
 <style type="text/css">
@@ -20,44 +20,32 @@ order: 3
   </tr>
   <tr>
     <td class="tg-031e">9:00</td>
-    <td class="tg-031e">Welcome and introduction</td>
+    <td class="tg-031e">Introduction to Day Two </td>
     <td class="tg-031e">Manuel Corpas</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
     <td class="tg-031e">9:15</td>
-    <td class="tg-031e">The BioJS project and ecosystem</td>
-    <td class="tg-031e">Manuel Corpas</td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e">9:40</td>
-    <td class="tg-031e">Tech Fundamentals</td>
-    <td class="tg-031e">David Dao</td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e">10:30</td>
-    <td class="tg-031e">Break</td>
+    <td class="tg-031e">Supervised Coding</td>
     <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
     <td class="tg-031e">10:45</td>
-    <td class="tg-031e">Intro to HTML, CSS, SVG and JavaScript </td>
-    <td class="tg-031e">David Dao</td>
+    <td class="tg-031e">Break</td>
+    <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">11:30</td>
-    <td class="tg-031e">How to start developing a BioJS project?</td>
+    <td class="tg-031e">11:00</td>
+    <td class="tg-031e">Advanced JavaScript</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">12:15</td>
-    <td class="tg-031e">Discussion &amp; Questions</td>
-    <td class="tg-031e">All</td>
+    <td class="tg-031e">11:30</td>
+    <td class="tg-031e">Supervised Coding</td>
+    <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
@@ -68,49 +56,31 @@ order: 3
   </tr>
   <tr>
     <td class="tg-031e">13:30</td>
-    <td class="tg-031e">Component demonstration</td>
-    <td class="tg-031e">Iris Shih</td>
+    <td class="tg-031e">Supervised Coding</td>
     <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e">13:40</td>
-    <td class="tg-031e">How to include a BioJS component?</td>
-    <td class="tg-031e">Iris Shih</td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e">13:50</td>
-    <td class="tg-031e">How to combine BioJS components?</td>
-    <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e">14:10</td>
-    <td class="tg-031e">Introduction to D3</td>
-    <td class="tg-031e">David Dao</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
     <td class="tg-031e">15:00</td>
-    <td class="tg-031e">Hands-on Exercise</td>
-    <td class="tg-031e">All</td>
+    <td class="tg-031e">Break</td>
+    <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">15:30</td>
-    <td class="tg-031e">Project Design and UI prototyping</td>
-    <td class="tg-031e">Rafael Jimenez</td>
+    <td class="tg-031e">15:15</td>
+    <td class="tg-031e">Supervised Coding</td>
+    <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">16:30</td>
-    <td class="tg-031e">Community and Outlook</td>
-    <td class="tg-031e">Manuel Corpas</td>
+    <td class="tg-031e">16:15</td>
+    <td class="tg-031e">Summary presentation</td>
+    <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
     <td class="tg-031e">17:00</td>
-    <td class="tg-031e">End of Day One</td>
+    <td class="tg-031e">End of workshop</td>
     <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
