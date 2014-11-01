@@ -7,7 +7,7 @@ order: 1
 
 <img src="{{ site.baseurl }}/assets/i/teaser.png" width="800px;" />
 
-<div class="credits"><a href="">Protein Interaction Network</a> | <a href="">Phylogenetic Tree</a> | <a href="">Microarray Scatterplot</a></div>
+<div class="credits"><a href="http://registry.biojs.net/client/#/detail/biojs-vis-interactions-d3">Protein Interaction Network</a> | <a href="http://edu.biojs.net/demo/treeviewer.html">Phylogenetic Tree</a> | <a href="http://registry.biojs.net/client/#/detail/biojs-vis-circularfv">Circular feature viewer</a></div>
 
 BioJS is a library of biologically driven components that are easy to reuse, maintain and deploy on the web. This workshop aims to introduce the BioJS project and develop skills in the use of BioJS components. We will provide a “hello world” tutorial on creating a BioJS component and contributing to the project community. The second day will involve hackathon to develop new components, or porting existing JavaScript functionality into BioJS 2.0.
 
