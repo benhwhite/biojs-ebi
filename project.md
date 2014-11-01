@@ -6,7 +6,7 @@ order: 5
 ---
 
 As "super-vised coding" project you have the great opportunity to work
-on the most famous program in bioinformatics - BLAST (> 52k citations!).
+on the most famous program in bioinformatics - BLAST ([> 105k citations!](http://scholar.google.com/citations?user=VRccPlQAAAAJ&hl=en)).
 
 ### Materials 
 
