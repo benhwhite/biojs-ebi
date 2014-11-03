@@ -42,8 +42,14 @@ order: 4
     <td class="tg-031e">Sebastian Wilzbach</td>
     <td class="tg-031e"></td>
   </tr>
+   <tr>
+    <td class="tg-031e">11:25</td>
+    <td class="tg-031e">Advanced D3</td>
+    <td class="tg-031e">David Dao</td>
+    <td class="tg-031e"></td>
+  </tr>
   <tr>
-    <td class="tg-031e">11:30</td>
+    <td class="tg-031e">11:50</td>
     <td class="tg-031e">Supervised Coding</td>
     <td class="tg-031e"></td>
     <td class="tg-031e"></td>
