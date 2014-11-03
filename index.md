@@ -15,6 +15,7 @@ In this course you will learn about tools for visualization of biological data, 
 
 ### Instructors
  [Manuel Corpas]() - TGAC
+ [Rafael Jimenez]() -  ELIXIR
  [David Dao]() - HITS 
  [Iris Shih]() - TUM
  [Sebastian Wilzbach]() -  RostLab
