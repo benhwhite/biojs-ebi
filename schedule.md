@@ -104,8 +104,8 @@ order: 3
   </tr>
   <tr>
     <td class="tg-031e">15:30</td>
-    <td class="tg-031e">Project Design and UI prototyping</td>
-    <td class="tg-031e">Rafael Jimenez</td>
+    <td class="tg-031e">How to deploy your component and contribute to the community</td>
+    <td class="tg-031e">Sebastian Wilzbach & David Dao</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
