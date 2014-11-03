@@ -98,8 +98,8 @@ order: 3
   </tr>
   <tr>
     <td class="tg-031e">15:30</td>
-    <td class="tg-031e">Project Design and UI prototyping</td>
-    <td class="tg-031e">Rafael Jimenez</td>
+    <td class="tg-031e">How to deploy a BioJS Component to the Registry?</td>
+    <td class="tg-031e">Sebastian Wilzbach</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
