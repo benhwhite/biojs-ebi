@@ -105,7 +105,7 @@ order: 3
     <td class="tg-031e">14:10</td>
     <td class="tg-031e">Introduction to D3</td>
     <td class="tg-031e">David Dao</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="http://slides.biojs.net/ebi-d3/#/">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-031e">15:00</td>
