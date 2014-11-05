@@ -52,7 +52,7 @@ order: 3
     <td class="tg-031e">11:30</td>
     <td class="tg-031e">How to start developing a BioJS project?</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="https://github.com/biojs/slush-biojs">Slush</a></td>
   </tr>
   <tr>
     <td class="tg-031e">12:00</td>
@@ -106,7 +106,8 @@ order: 3
     <td class="tg-031e">15:30</td>
     <td class="tg-031e">Intro to the project</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="https://docs.google.com/presentation/d/1OtYi-ihHapeHRq_PTc3fi7grnbHoXMbJBJI4Yq1kKGo/pub?start=false&loop=false&delayms=15000&slide=id.g4138faa6a_0113">Slides</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-031e">15:50</td>
