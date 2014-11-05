@@ -5,6 +5,8 @@ permalink: /project/
 order: 5
 ---
 
+[List of projects](https://docs.google.com/document/d/1hlEFs-xdYxslWkx-fOQLsASscMLaKeqvnvgANCTJ0Z8/edit)
+
 As "super-vised coding" project you have the great opportunity to work
 on the most famous program in bioinformatics - BLAST ([> 105k citations!](http://scholar.google.com/citations?user=VRccPlQAAAAJ&hl=en)).
 
