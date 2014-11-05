@@ -26,4 +26,5 @@ In this course you will learn about tools for visualization of biological data, 
  Date: 5-6 November 2014
 
 ### Materials
- Will be published online here
+ [Exercises](https://github.com/daviddao/ebi-exercise)
+ [Solutions](https://github.com/daviddao/ebi-exercise-solution)
