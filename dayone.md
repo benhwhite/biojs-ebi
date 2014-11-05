@@ -52,7 +52,7 @@ order: 3
     <td class="tg-031e">11:00</td>
     <td class="tg-031e">Intro to JavaScript </td>
     <td  class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e" biojs-date="2014-11-05 11:00" ><a href="https://greenify.github.io/js-intro/#/">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-031e">11:30</td>
