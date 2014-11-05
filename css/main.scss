@@ -34,6 +34,11 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+/* hide all biojs date elements */
+[biojs-date]{
+	display: none;
+}
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/

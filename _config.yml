@@ -11,7 +11,7 @@ github_username:
 analytics :
   provider : google
   google :
-      tracking_id : ''
+      tracking_id : 'UA-51509688-3'
 
 plugins: ./_plugins
 

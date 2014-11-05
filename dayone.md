@@ -22,7 +22,7 @@ order: 3
     <td class="tg-031e">9:15</td>
     <td class="tg-031e">Welcome and introduction</td>
     <td class="tg-031e">Manuel Corpas</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e" biojs-date="2014-11-05 02:00"></td>
   </tr>
   <tr>
     <td class="tg-031e">9:30</td>
@@ -45,14 +45,14 @@ order: 3
   <tr>
     <td class="tg-031e">10:30</td>
     <td class="tg-031e">Intro to HTML, CSS, SVG and JavaScript </td>
-    <td class="tg-031e">David Dao, <br> Sebastian Wilzbach</td>
+    <td  class="tg-031e">David Dao, <br> Sebastian Wilzbach</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
     <td class="tg-031e">11:30</td>
     <td class="tg-031e">How to start developing a BioJS project?</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"><a href="https://github.com/biojs/slush-biojs">Slush</a></td>
+    <td class="tg-031e" biojs-date="2014-11-05 11:30"><a href="https://github.com/biojs/slush-biojs">Slush</a></td>
   </tr>
   <tr>
     <td class="tg-031e">12:00</td>
@@ -106,7 +106,7 @@ order: 3
     <td class="tg-031e">15:30</td>
     <td class="tg-031e">Intro to the project</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"><a href="https://docs.google.com/presentation/d/1OtYi-ihHapeHRq_PTc3fi7grnbHoXMbJBJI4Yq1kKGo/pub?start=false&loop=false&delayms=15000&slide=id.g4138faa6a_0113">Slides</a>
+    <td class="tg-031e" biojs-date="2014-11-05 15:30"><a href="https://docs.google.com/presentation/d/1OtYi-ihHapeHRq_PTc3fi7grnbHoXMbJBJI4Yq1kKGo/pub?start=false&loop=false&delayms=15000&slide=id.g4138faa6a_0113">Slides</a>
     </td>
   </tr>
   <tr>
@@ -134,3 +134,5 @@ order: 3
     <td class="tg-031e"></td>
   </tr>
 </table>
+
+<script src="{{ baseurl }}/js/hider.js"></script>
