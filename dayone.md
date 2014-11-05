@@ -58,7 +58,10 @@ order: 3
     <td class="tg-031e">11:30</td>
     <td class="tg-031e">How to start developing a BioJS project?</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e" biojs-date="2014-11-05 11:30"><a href="https://github.com/biojs/slush-biojs">Slush</a></td>
+    <td class="tg-031e" biojs-date="2014-11-05 11:30">
+    	<a href="https://github.com/biojs/slush-biojs">Slush</a><br>
+    	<a href="http://edu.biojs.net/series/101/22_headstart.html">Headstart</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-031e">12:00</td>
