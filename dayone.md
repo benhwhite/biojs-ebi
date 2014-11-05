@@ -67,7 +67,9 @@ order: 3
     <td class="tg-031e">12:00</td>
     <td class="tg-031e">Interactive hands-on</td>
     <td class="tg-031e">All</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e" biojs-date="2014-11-05 11:35">
+      <a href="https://github.com/daviddao/ebi-exercise">Exercise 1</a>
+    </td>
   </tr>
  <tr>
     <td class="tg-031e">12:30</td>
