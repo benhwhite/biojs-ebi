@@ -28,19 +28,19 @@ order: 3
     <td class="tg-031e">9:30</td>
     <td class="tg-031e">The BioJS project and ecosystem</td>
     <td class="tg-031e">Iris Shih</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="http://slides.biojs.net/ebi-biojs-intro/">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-031e">9:50</td>
     <td class="tg-031e">Tech Fundamentals</td>
     <td class="tg-031e">David Dao</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="http://slides.biojs.net/ebi-tech-fundamentals-1/#/">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-031e">10:15</td>
     <td class="tg-031e">Intro to HTML, CSS, SVG</td>
     <td  class="tg-031e">David Dao</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="http://slides.biojs.net/ebi-tech-fundamentals-2/">Slides</a></td>
   </tr>
  <tr>
     <td class="tg-031e">10:45</td>
