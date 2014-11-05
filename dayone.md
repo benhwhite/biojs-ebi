@@ -36,16 +36,22 @@ order: 3
     <td class="tg-031e">David Dao</td>
     <td class="tg-031e"></td>
   </tr>
- <tr>
+  <tr>
     <td class="tg-031e">10:15</td>
+    <td class="tg-031e">Intro to HTML, CSS, SVG</td>
+    <td  class="tg-031e">David Dao</td>
+    <td class="tg-031e"></td>
+  </tr>
+ <tr>
+    <td class="tg-031e">10:45</td>
     <td class="tg-031e">Break</td>
     <td class="tg-031e"></td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">10:30</td>
-    <td class="tg-031e">Intro to HTML, CSS, SVG and JavaScript </td>
-    <td  class="tg-031e">David Dao, <br> Sebastian Wilzbach</td>
+    <td class="tg-031e">11:00</td>
+    <td class="tg-031e">Intro to JavaScript </td>
+    <td  class="tg-031e">Sebastian Wilzbach</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
@@ -98,31 +104,37 @@ order: 3
   </tr>
   <tr>
     <td class="tg-031e">15:00</td>
+    <td class="tg-031e">Break</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">15:15</td>
     <td class="tg-031e">Hands-on Exercise</td>
     <td class="tg-031e">All</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">15:30</td>
+    <td class="tg-031e">15:45</td>
     <td class="tg-031e">Intro to the project</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
     <td class="tg-031e" biojs-date="2014-11-05 15:30"><a href="https://docs.google.com/presentation/d/1OtYi-ihHapeHRq_PTc3fi7grnbHoXMbJBJI4Yq1kKGo/pub?start=false&loop=false&delayms=15000&slide=id.g4138faa6a_0113">Slides</a>
     </td>
   </tr>
   <tr>
-    <td class="tg-031e">15:50</td>
+    <td class="tg-031e">16:00</td>
     <td class="tg-031e">Good design & bad design</td>
     <td class="tg-031e">All</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">16:00</td>
+    <td class="tg-031e">16:15</td>
     <td class="tg-031e">UI prototyping</td>
     <td class="tg-031e">All</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
-    <td class="tg-031e">16:30</td>
+    <td class="tg-031e">16:45</td>
     <td class="tg-031e">Community and Outlook</td>
     <td class="tg-031e">Manuel Corpas</td>
     <td class="tg-031e"></td>
