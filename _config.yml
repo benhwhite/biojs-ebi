@@ -3,7 +3,8 @@ title: BioJS Workshop
 email: 
 description: "Presented by BioJS 2.0"
 baseurl: ""
-url: "http://lab.biojs.net/"
+url: "http://ebi.biojs.net/"
+github: "biojs/biojs-ebi"
 twitter_username: 
 github_username:  
 
